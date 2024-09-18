@@ -1,4 +1,4 @@
-import fs from '____';
+import fs from '_';
 import path, { dirname } from '____';
 import { fileURLToPath } from '____';
 
